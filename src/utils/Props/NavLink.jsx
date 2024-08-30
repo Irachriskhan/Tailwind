@@ -3,7 +3,7 @@ const NavLink = (link) => {
   return (
     <>
       <li>
-        <a href={path} className="text-white">
+        <a href={path} className="text-white hover:text-purple-300">
           {name}
         </a>
       </li>
