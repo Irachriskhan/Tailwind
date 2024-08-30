@@ -16,8 +16,13 @@ const listOfModules = [
     },
     {
         id : 4,
-        path:"/upcoming",
-        name: "upcoming"
+        path:"/spacing",
+        name: "Spacing"
+    },
+    {
+        id : 5,
+        path:"/sizing",
+        name: "Sizing"
     }
 ]
 
