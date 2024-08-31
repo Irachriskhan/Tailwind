@@ -1,9 +1,9 @@
-// import "./App.css";
+import Routers from "./routes/Routers";
 
 function App() {
   return (
     <>
-      <h1 className="text-green-600">Hello world!</h1>
+      <Routers />
     </>
   );
 }
